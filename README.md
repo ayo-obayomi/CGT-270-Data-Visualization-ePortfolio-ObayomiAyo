@@ -1,4 +1,4 @@
-# GT-270-Data-Visualization-ePortfolio-ObayomiAyo
+# CGT-270-Data-Visualization-ePortfolio-ObayomiAyo
 A portfolio for CGT 270 Data Visualization course at Purdue University.
 ### Directory Structure
 The main directory is divided into 4 sub-directories:
